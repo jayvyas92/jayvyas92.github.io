@@ -1,36 +1,17 @@
 ## Jayant Vyas
 
-You can use the [editor on GitHub](https://github.com/jayvyas92/jayvyas92/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Research scholar at the [Department of Computer Science and Engineering](https://cse.iitj.ac.in/), [IIT Jodhpur](https://iitj.ac.in/), India. In my last position, I was a Assistant professor in Department of Information Technology, Parul Institute of Engineering and Technology, Parul University, Vadodara, Gujarat, India. Prior to that, I was a Project Staff in Teaching Learning Centre for IoT, Department of Electrical Engineering, IIT Patna, India, where I worked in the group of Dr. Ranjan Kumar Behera. I did my [M.Tech.](https://www.iitp.ac.in/index.php/en-us/people/pg-students) at [Indian Institute of Technology Patna](https://www.iitp.ac.in/index.php/en-us/), India, under the supervision of Dr. Arijit Mondal. ​
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Interests
 
-### Markdown
+Intelligent Transportation Systems, Human-Machine Interaction, Driver Behavior Analysis, Federated Learning, Vehicular Edge Computing, and Vehicular Machine Learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Educational Qualifications
+1. Ph.D., Computer Science and Engineering, Indian Institute of Technology Jodhpur, India. (Pursuing, Since January 2020)
 
-```markdown
-Syntax highlighted code block
+2. Masters (M.Tech) in Computer Science and Engineering, Indian Institute of Technology Patna, India. (2014 Batch)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayvyas92/jayvyas92/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. Bachelors (BE) in Information Technology, RGPV, Bhopal, India. (2009 Batch)
 
 ### Support or Contact
 
