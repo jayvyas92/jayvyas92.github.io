@@ -6,13 +6,21 @@ I am an Research scholar at the [Department of Computer Science and Engineering]
 
 Intelligent Transportation Systems, Human-Machine Interaction, Driver Behavior Analysis, Federated Learning, Vehicular Edge Computing, and Vehicular Machine Learning.
 
-### Educational Qualifications
+### Education
 1. Ph.D., Computer Science and Engineering, Indian Institute of Technology Jodhpur, India. (Pursuing, Since January 2020)
 
 2. Masters (M.Tech) in Computer Science and Engineering, Indian Institute of Technology Patna, India. (2014 Batch)
 
 3. Bachelors (BE) in Information Technology, RGPV, Bhopal, India. (2009 Batch)
 
-### Support or Contact
+### Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[[1]](https://ieeexplore.ieee.org/document/9547207) Jayant Vyas, Debasis Das, and Santanu Chaudhury, DriveBFR: Driver Behavior and Fuel Efficiency Based Recommendation System, IEEE Transactions on Computational Social Systems (2021). (Accepted)
+
+[2] Jayant Vyas, Debasis Das, and Sajal K Das, FedCom: Federated Learning-Based Stress-Free Driver Recommendation System, ACM 15th Academic Research and Careers for Students Symposium (ACM ARCS-2021), 11th & 12th February 2021, Coimbatore, India. (Accepted in Poster/Speed Talk track)
+ 
+[[3]](https://ieeexplore.ieee.org/document/9356014) Jayant Vyas, Debasis Das, and Sajal K Das, Vehicular Edge Computing Based Driver Recommendation System Using Federated Learning, 17th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS - 2020), December 10 -13th, 2020, Delhi NCR, India. (Accepted) [Core Ranking: Core B].
+
+### Awards
+1. Recipient of [ACM India Anweshan Setu Fellowship 2021.](https://india.acm.org/research/anveshan-setu)
+2. Received Student Registration Grants for ACM SIGMETRICS 2021 (June 14-18, 2021)
